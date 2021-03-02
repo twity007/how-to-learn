@@ -34,10 +34,9 @@
   margin-left: 64px;
   z-index: 2;
   padding: auto;
-
 }
+
 .header__subtitle {
-  width: 730px;
   left:64px;
   width:388px;
   bottom: 30px;
@@ -83,8 +82,7 @@ font-family: 'Helvetica Neue', Arial, sans-serif;
 
 .description {
   margin-top:100px; 
-  margin-bottom: 100px;
-
+  margin-bottom:100px;
 }
  
 .two-columns {
@@ -94,12 +92,10 @@ font-family: 'Helvetica Neue', Arial, sans-serif;
   min-width: 784px;
   width: 80%;
   margin:auto;
-
 }
 .two-columns__brief {
   width: 175px;
   align-self: stretch;
-
 }
 .font__blue {
   color:#2f80ed;
@@ -118,7 +114,6 @@ font-family: 'Helvetica Neue', Arial, sans-serif;
   line-height: 34px;
   font-size: 24px;
   margin-block-start: 0;
-
 }
 
 .span-accent {
@@ -155,7 +150,6 @@ margin-bottom: 100px;
   width: 60%;
   text-align: center;
   margin: auto;
-
 }
 .heading {
 font-family: 'Helvetica Neue', Arial, sans-serif, bold;
@@ -167,11 +161,7 @@ font-family: 'Helvetica Neue', Arial, sans-serif, bold;
   text-align: center;
   margin: auto;
   padding-top: 20px;
-
 }
-
- 
-
 
 .feynman {
   margin-top: 100px;
@@ -193,7 +183,6 @@ text-align: center;
 font-weight: bold;
 line-height: 1.15em;
 margin: auto;
-text-align: center;
 z-index: 2;
 position: absolute;
 }
@@ -320,7 +309,6 @@ margin: auto;
   margin-top: 60px;
   margin-bottom: 40px; 
   position: relative;
-
 }
 
 .footer__author {
@@ -331,8 +319,8 @@ margin: auto;
   bottom: 18px;
   position: absolute;
   width: 250px;
-
 }
+
 .footer__column-heading {
   line-height: 30px;
   font-size: 18px;
@@ -357,12 +345,12 @@ margin: auto;
   position: relative;
   height: 350px;
   justify-content: space-between;
-
 }
+
 .footer__column_content_info {
   color: white;
-
 }
+
 .footer__column-link {
 color: #f2f2f2;
 line-height: 30px;
