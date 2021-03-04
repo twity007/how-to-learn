@@ -136,9 +136,7 @@ z-index: 1;
   width: 250px;
   padding: 0 33px 0 0;
 }
-.table__cell:first-of-type {
-  margin-bottom: 0;
-}
+
 .digits__title {
   line-height: 1.15;
   font-size: 60px;
@@ -248,7 +246,7 @@ padding-top: 90px;
 color: white;
 line-height: 1.15;
 font-size: 60px;
-font-family: bold;
+font-weight: bold;
 width: 60%;
 text-align: center;
 margin: auto;
