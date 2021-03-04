@@ -251,10 +251,6 @@ font-family: inherit;
 color: white;
 }
 
-.table__row {
-  display: table-row;
-}
-
 /* и элемента с модификатором вида ключ-значение */
 .table__cell_theme_dark {
   display: table-cell;
