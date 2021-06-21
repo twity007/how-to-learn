@@ -19,3 +19,5 @@
 1. Flexbox верстка.
 2. Animation
 2. Вставка видео через iframe
+
+Ссылка на проект: https://twity007.github.io/how-to-learn/index.html
